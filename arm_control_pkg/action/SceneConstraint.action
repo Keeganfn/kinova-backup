@@ -1,0 +1,8 @@
+#goal definition
+string constraint_request
+---
+#result definition
+bool constraint_result
+---
+#feedback
+string constraint_status

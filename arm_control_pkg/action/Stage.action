@@ -1,0 +1,8 @@
+#goal definition
+bool stage_start
+---
+#result definition
+bool stage_result
+---
+#feedback
+string stage_status
